@@ -167,11 +167,11 @@
     <ResourceCompile Include="..\Generic_Based_Games\src\Generic_Based_Games.rc" />
   </ItemGroup>
   <ItemGroup>
-    <Image Include="..\Player_Icons\OTHELLO_MOVE_ICON.ico" />
-    <Image Include="..\Player_Icons\OTHELLO_P1_ICON.ico" />
-    <Image Include="..\Player_Icons\OTHELLO_P2_ICON.ico" />
-    <Image Include="..\Player_Icons\TTT_P1_ICON.ico" />
-    <Image Include="..\Player_Icons\TTT_P2_ICON.ico" />
+    <Image Include="..\Generic_Based_Games\Player_Icons\OTHELLO_MOVE_ICON.ico" />
+    <Image Include="..\Generic_Based_Games\Player_Icons\OTHELLO_P1_ICON.ico" />
+    <Image Include="..\Generic_Based_Games\Player_Icons\OTHELLO_P2_ICON.ico" />
+    <Image Include="..\Generic_Based_Games\Player_Icons\TTT_P1_ICON.ico" />
+    <Image Include="..\Generic_Based_Games\Player_Icons\TTT_P2_ICON.ico" />
     <Image Include="Generic_Based_Games.ico" />
     <Image Include="small.ico" />
   </ItemGroup>

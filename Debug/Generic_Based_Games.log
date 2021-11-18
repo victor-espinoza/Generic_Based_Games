@@ -1,3 +1,10 @@
 ﻿  Generic_Based_Games.cpp
 C:\Users\Victor\Documents\GitHub Projects\C++ Projects\Generic_Based_Games\Generic_Based_Games\Generic_Based_Games\src\Generic_Based_Games.cpp(634,14): warning C4102: 'defualt': unreferenced label
+  OthelloBoard.cpp
+  OthelloMove.cpp
+  OthelloView.cpp
+  TicTacToeBoard.cpp
+  TicTacToeMove.cpp
+  TicTacToeView.cpp
+  Generating Code...
   Generic_Based_Games.vcxproj -> C:\Users\Victor\Documents\GitHub Projects\C++ Projects\Generic_Based_Games\Generic_Based_Games\Debug\Generic_Based_Games.exe
